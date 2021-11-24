@@ -1,0 +1,15 @@
+/Users/macbookpro/workspace/oop/bin/Debug/net5.0/oop.deps.json
+/Users/macbookpro/workspace/oop/bin/Debug/net5.0/oop.runtimeconfig.json
+/Users/macbookpro/workspace/oop/bin/Debug/net5.0/oop.runtimeconfig.dev.json
+/Users/macbookpro/workspace/oop/bin/Debug/net5.0/oop.dll
+/Users/macbookpro/workspace/oop/bin/Debug/net5.0/ref/oop.dll
+/Users/macbookpro/workspace/oop/bin/Debug/net5.0/oop.pdb
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.csproj.AssemblyReference.cache
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.AssemblyInfoInputs.cache
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.AssemblyInfo.cs
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.csproj.CoreCompileInputs.cache
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.dll
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/ref/oop.dll
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.pdb
+/Users/macbookpro/workspace/oop/obj/Debug/net5.0/oop.genruntimeconfig.cache
